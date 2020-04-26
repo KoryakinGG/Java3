@@ -9,6 +9,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.testng:testng:1.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.xerial:sqlite-jdbc:3.21.0" level="project" />
     <orderEntry type="library" name="Maven: com.speedment.runtime:connector-sqlite:3.2.1" level="project" />
     <orderEntry type="library" name="Maven: com.speedment.common:logger:3.2.1" level="project" />
